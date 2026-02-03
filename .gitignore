@@ -1,0 +1,14 @@
+# Build artifacts
+/build/
+*.o
+*.obj
+*.exe
+*.pdb
+
+# Editor / OS noise
+.vscode/
+.DS_Store
+
+# Generated output
+*.json
+*.txt

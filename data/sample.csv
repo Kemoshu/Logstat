@@ -1,0 +1,5 @@
+timestamp,service,endpoint,status,latency_ms
+2026-01-22T10:00:00Z,api,/health,200,3
+2026-01-22T10:00:01Z,api,/login,401,12
+2026-01-22T10:00:02Z,api,/login,200,45
+2026-01-22T10:00:03Z,api,/events,200,120
