@@ -1,4 +1,4 @@
-logstat` is a cross-platform C++ command-line tool for analyzing HTTP-style CSV log files.
+logstat is a cross-platform C++ command-line tool for analyzing HTTP-style CSV log files.
 It streams records from disk, aggregates metrics in memory, and produces both human-readable
 and JSON reports.
 
